@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+.section1Column{
+background:url('./images/chart2.jpg'), linear-gradient(to right,#000000,#001223);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.para{
+  color:whitesmoke;
+}
+.section3Column{
+  background-image: url('./images//section3Back.png');
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.section3Icon{
+  color: 	#FF69B4	;
+}
+.section4Column{
+  background-color: #311b92;
+  clip-path: polygon(0 0, 100% 0%, 100% 90%, 0 100%);
+  border-top-right-radius: 15px;
+}
+.section4Poly{
+  margin-top: -10px;
+  margin-left: -13px;
+  width: 135px;
+}
+.section4Circle{
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.section5Icon{
+  background: linear-gradient(103deg, rgba(16,146,213,1) 35%, rgba(25,198,212,1) 72%);
+border-radius:50%
+}
+.section5PlayIcon{
+  color: palevioletred;
+}
+.footerColumn{
+  background-color: #311b92;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+
+}
+.footerMessageIcon{
+  background-color: #7e57c2;
+  border-radius: 50%;
+}
+.footerPoly{
+  margin-top: -3.25px;
+  margin-left: -13px;
+  width: 135px;
+}
+.signUpColumn{
+  background: url('./images//womenCoding.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.arrowDown{
+margin-top: 300px;
+margin-bottom: 50px;
+}
